@@ -108,6 +108,7 @@ def changing_alan
 
      programmer_hash[:dennis_ritchie][:known_for] = alans_new_info
 
+     programmer_hash
 
 end
 
